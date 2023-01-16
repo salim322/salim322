@@ -1,0 +1,30 @@
+﻿  Source.cpp
+C:\Users\Berkan\source\repos\kr_21621386\kr_21621386\kr_21621386\Source.cpp(14,17): error C2065: 'student': undeclared identifier
+C:\Users\Berkan\source\repos\kr_21621386\kr_21621386\kr_21621386\Source.cpp(14,13): error C2923: 'std::set': 'student' is not a valid template type argument for parameter '_Kty'
+C:\Users\Berkan\source\repos\kr_21621386\kr_21621386\kr_21621386\Source.cpp(14): message : see declaration of 'student'
+C:\Users\Berkan\source\repos\kr_21621386\kr_21621386\kr_21621386\Source.cpp(14,13): error C2976: 'std::set': too few template arguments
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\set(54): message : see declaration of 'std::set'
+C:\Users\Berkan\source\repos\kr_21621386\kr_21621386\kr_21621386\Source.cpp(14,66): error C2065: 'student': undeclared identifier
+C:\Users\Berkan\source\repos\kr_21621386\kr_21621386\kr_21621386\Source.cpp(14,62): error C2923: 'std::set': 'student' is not a valid template type argument for parameter '_Kty'
+C:\Users\Berkan\source\repos\kr_21621386\kr_21621386\kr_21621386\Source.cpp(14): message : see declaration of 'student'
+C:\Users\Berkan\source\repos\kr_21621386\kr_21621386\kr_21621386\Source.cpp(14,62): error C2976: 'std::set': too few template arguments
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\set(54): message : see declaration of 'std::set'
+C:\Users\Berkan\source\repos\kr_21621386\kr_21621386\kr_21621386\Source.cpp(118,29): error C2259: 'ScholarshipProtocol': cannot instantiate abstract class
+C:\Users\Berkan\source\repos\kr_21621386\kr_21621386\kr_21621386\Source.cpp(66): message : see declaration of 'ScholarshipProtocol'
+C:\Users\Berkan\source\repos\kr_21621386\kr_21621386\kr_21621386\Source.cpp(118,29): message : due to following members:
+C:\Users\Berkan\source\repos\kr_21621386\kr_21621386\kr_21621386\Source.cpp(118,29): message : 'std::set Scholarship::extractStudentsForScholarship(const std::set &,int,int) const': is abstract
+C:\Users\Berkan\source\repos\kr_21621386\kr_21621386\kr_21621386\Source.cpp(14): message : see declaration of 'Scholarship::extractStudentsForScholarship'
+C:\Users\Berkan\source\repos\kr_21621386\kr_21621386\kr_21621386\Source.cpp(118,41): error C2259: 'ScholarshipProtocol': cannot instantiate abstract class
+C:\Users\Berkan\source\repos\kr_21621386\kr_21621386\kr_21621386\Source.cpp(66): message : see declaration of 'ScholarshipProtocol'
+C:\Users\Berkan\source\repos\kr_21621386\kr_21621386\kr_21621386\Source.cpp(118,41): message : due to following members:
+C:\Users\Berkan\source\repos\kr_21621386\kr_21621386\kr_21621386\Source.cpp(118,41): message : 'std::set Scholarship::extractStudentsForScholarship(const std::set &,int,int) const': is abstract
+C:\Users\Berkan\source\repos\kr_21621386\kr_21621386\kr_21621386\Source.cpp(14): message : see declaration of 'Scholarship::extractStudentsForScholarship'
+C:\Users\Berkan\source\repos\kr_21621386\kr_21621386\kr_21621386\Source.cpp(126,13): error C2065: 'scholarship1': undeclared identifier
+C:\Users\Berkan\source\repos\kr_21621386\kr_21621386\kr_21621386\Source.cpp(130,29): error C2259: 'ScholarshipProtocol': cannot instantiate abstract class
+C:\Users\Berkan\source\repos\kr_21621386\kr_21621386\kr_21621386\Source.cpp(66): message : see declaration of 'ScholarshipProtocol'
+C:\Users\Berkan\source\repos\kr_21621386\kr_21621386\kr_21621386\Source.cpp(130,29): message : due to following members:
+C:\Users\Berkan\source\repos\kr_21621386\kr_21621386\kr_21621386\Source.cpp(130,29): message : 'std::set Scholarship::extractStudentsForScholarship(const std::set &,int,int) const': is abstract
+C:\Users\Berkan\source\repos\kr_21621386\kr_21621386\kr_21621386\Source.cpp(14): message : see declaration of 'Scholarship::extractStudentsForScholarship'
+C:\Users\Berkan\source\repos\kr_21621386\kr_21621386\kr_21621386\Source.cpp(138,13): error C2065: 'scholarship2': undeclared identifier
+C:\Users\Berkan\source\repos\kr_21621386\kr_21621386\kr_21621386\Source.cpp(141,33): error C2065: 'scholarship1': undeclared identifier
+C:\Users\Berkan\source\repos\kr_21621386\kr_21621386\kr_21621386\Source.cpp(148,33): error C2065: 'scholarship2': undeclared identifier
